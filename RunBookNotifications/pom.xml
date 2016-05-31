@@ -6,7 +6,7 @@
   <artifactId>RunBookNotifications</artifactId>
   <version>1.0</version>
   <name>RunBookNotifications</name>
-  <description>This work flow is created for sending notifications on Primed Run Book</description>
+  <description>This work flow is created for sending notifications from Primed Run Book</description>
   <build>
     <plugins>
       <plugin>
